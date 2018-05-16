@@ -1,1 +1,1 @@
-# lusean.github.io
+# Welcome to the personal website of Sean Lu
